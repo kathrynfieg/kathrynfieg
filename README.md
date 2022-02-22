@@ -1,13 +1,2 @@
-- 👋 Hi, I’m @kathrynfieg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kathrynfieg/kathrynfieg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-## Hey, I'm Kathryn
-I am Junior Developer at PwC
+## Hey, I'm Kathryn :wave:
+I am Junior Developer at PwC and currently in my last year of Uni studying Software Development.
