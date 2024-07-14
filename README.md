@@ -1,3 +1,4 @@
+![Copy of Black and White Monochrome Illustration Artist LinkedIn Banner (1)](https://github.com/user-attachments/assets/2ce3c486-01e3-4e48-9afb-f9bdf2359f7e)
 
 ### Hey, I'm Kathryn :wave:
 
