@@ -9,7 +9,7 @@
 
 Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
 <br />
-Graduated from <a href="https://www.unisa.edu.au/">UNISA</a> 2022
+Graduated from <a href="https://www.unisa.edu.au/">UNISA</a> 2022, IT Software Development
 
 - ⚙️ I use daily: `.vue`, `typescript`, `storybook`, `vitest`, `github`
 - My must-have vscode extension: `vscode-pets` 🐕
