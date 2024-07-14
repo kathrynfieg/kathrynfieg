@@ -9,11 +9,11 @@
 
 Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
 <br />
-Graduated from <a href="https://www.unisa.edu.au/">UNISA</a>
+Graduated from <a href="https://www.unisa.edu.au/">UNISA</a> 2022
 
-- ⚙️ I use daily: `.vue`, `.ts`, `.stories.ts` `.test.ts`
-- 📚 Currently reading **The Pragmatic Programmer**
-- 🐕 My must have vscode extension: `vscode-pets`
+- ⚙️ I use daily: `.vue`, `typescript`, `storybook`, `vitest`, `github`
+- My must have vscode extension: `vscode-pets` 🐕
+- Currently reading **The Pragmatic Programmer**
 
 <br />
 
