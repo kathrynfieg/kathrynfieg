@@ -1,6 +1,7 @@
-<!--![Copy of Black and White Monochrome Illustration Artist LinkedIn Banner (1)](https://github.com/user-attachments/assets/2ce3c486-01e3-4e48-9afb-f9bdf2359f7e)-->
+<!--![Copy of Black and White Monochrome Illustration Artist LinkedIn Banner (1)](https://github.com/user-attachments/assets/2ce3c486-01e3-4e48-9afb-f9bdf2359f7e)
+![Copy of Black and White Monochrome Illustration Artist LinkedIn Banner (2)](https://github.com/user-attachments/assets/f87e5af1-007e-4af8-ba2b-553f8cc89fae)-->
 
-![Copy of Black and White Monochrome Illustration Artist LinkedIn Banner (2)](https://github.com/user-attachments/assets/f87e5af1-007e-4af8-ba2b-553f8cc89fae)
+![Copy of Black and White Monochrome Illustration Artist LinkedIn Banner (3)](https://github.com/user-attachments/assets/9d318878-352a-421c-b5fd-e5fe53a5105c)
 
 ### Hey, I'm Kathryn :wave:
 
