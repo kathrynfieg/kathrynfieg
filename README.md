@@ -13,7 +13,8 @@ Graduated from <a href="https://www.unisa.edu.au/">UNISA</a> 2022, IT Software D
 
 - ⚙️ I use daily: `.vue`, `typescript`, `storybook`, `vitest`, `github`
 - My must-have vscode extension: `vscode-pets` 🐕
-- Currently reading **The Pragmatic Programmer**
+- Favourite dev book 2024: **The Pragmatic Programmer**
+- 🌱 Current side project i'm working on: "Where's Koda?"
 
 <br />
 
