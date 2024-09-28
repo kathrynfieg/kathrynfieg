@@ -12,6 +12,7 @@ Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
 - ⚙️ I use daily: `.vue`, `typescript`, `storybook`, `vitest`, `github`
 - My must-have vscode extension: `vscode-pets` 🐕
 - Favourite dev book 2024: **The Pragmatic Programmer**
+- Lastest side project: <a href="https://istherework.today">IsThereWorkToday?</a> 
 - 🌱 Current side project i'm working on: "Where's Koda?"
 
 <br />
