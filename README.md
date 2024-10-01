@@ -36,3 +36,5 @@ Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrynfieg&repo=TafeBuddy_SRV_App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 -->
+
+![My GitHub stats](https://github-readme-stats-beta-weld-49.vercel.app/api?username=kathrynfieg\&hide=issues,stars\&show_icons=true\&count_private=true\&rank_icon=github\&theme=swift\&hide_border=true\&card_width=600px)
