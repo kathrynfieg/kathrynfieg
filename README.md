@@ -20,9 +20,10 @@ Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
 <a target="_blank" href="https://www.linkedin.com/in/kathrynfieg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://kfieg.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="mailto:kathrynfieg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.youtube.com/user/kathrynfieg/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 
 <!--
+<a href="https://www.youtube.com/user/kathrynfieg/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+
 #### Let's Get In Touch
 
 ### What I Work With
