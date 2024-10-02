@@ -38,4 +38,4 @@ Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
 </a>
 -->
 
-![My GitHub stats](https://github-readme-stats-beta-weld-49.vercel.app/api?username=kathrynfieg\&hide=issues,stars\&show_icons=true\&count_private=true\&rank_icon=github\&theme=swift\&hide_border=true\&card_width=600px)
+![My GitHub stats](https://github-readme-stats-beta-weld-49.vercel.app/api?username=kathrynfieg\&hide=issues,stars\&show_icons=true\&count_private=true\&rank_icon=github\&theme=swift\&hide_border=true)
