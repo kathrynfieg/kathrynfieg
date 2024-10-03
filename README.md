@@ -7,7 +7,7 @@
 
 **A Frontend Developer based in Adelaide, South Australia ☼**
 
-Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>
+<!--Frontend Developer at <a href="https://guestpix.com/">GUESTPIX</a>-->
 
 - ⚙️ I use daily: `.vue`, `typescript`, `storybook`, `vitest`, `github`
 - My must-have vscode extension: `vscode-pets` 🐕
