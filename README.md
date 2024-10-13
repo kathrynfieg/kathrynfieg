@@ -38,4 +38,4 @@
 </a>
 -->
 
-![My GitHub stats](https://github-readme-stats-beta-weld-49.vercel.app/api?username=kathrynfieg\&hide=issues,stars\&show_icons=true\&count_private=true\&rank_icon=github\&theme=swift\&hide_border=true)
+![My GitHub stats](https://github-readme-stats-beta-weld-49.vercel.app/api?username=kathrynfieg\&hide=issues,stars\&show_icons=true\&show=prs_merged_percentage,reviews\&count_private=true\&rank_icon=github\&theme=swift\&hide_border=true)
