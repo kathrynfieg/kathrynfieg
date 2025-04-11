@@ -43,3 +43,7 @@
 ![My GitHub stats](https://github-readme-stats-beta-weld-49.vercel.app/api?username=kathrynfieg\&hide=issues,stars\&show_icons=true\&show=prs_merged_percentage,reviews\&count_private=true\&rank_icon=github\&theme=swift\&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-beta-weld-49.vercel.app/api/top-langs/?username=kathrynfieg\&layout=compact)
+
+### Github Contributions
+#### 2024
+<img width="753" alt="Screenshot 2025-04-11 at 4 31 13 pm" src="https://github.com/user-attachments/assets/05344be4-c8f0-4831-9c51-484934ab2c5c" />
