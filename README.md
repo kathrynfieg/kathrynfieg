@@ -15,7 +15,7 @@
 
 - ⚙️ I use daily: `.vue`, `typescript`, `storybook`, `vitest`, `github`
 - My must-have vscode extension: `vscode-pets` 🐕
-- Personal Portfolio: <a href="https://kfieg.dev" target="_blank">kfieg</a>  
+- Personal Portfolio: <a href="https://kfieg.dev" target="_blank">kfieg.dev</a>  
 - Lastest side project: <a href="https://istherework.today">IsThereWorkToday?</a> 
 - 🌱 Current side project i'm working on: "Where's Koda?"
 
